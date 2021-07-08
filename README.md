@@ -3,7 +3,6 @@
  <h2 align="center">Emojifier Türkçe</h2>
  <p align="center">Yazdığınız kelimeleri emojilere dönüştürün!</p>
  
-[Ozaxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozaxx)
 [Ozaxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozaxx&theme=dark&show_icons=true)
 
 # Kurulum:
