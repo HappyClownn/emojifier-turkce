@@ -4,13 +4,13 @@
  <p align="center">Yazdığınız kelimeleri emojilere dönüştürün!</p>
 
 # Kurulum:
-AutoHotKey programını indirin.
-Ardından "https://github.com/Ozaxx/emojifier-turkce/releases/tag/1.0.0" kısmından en güncel sürümü indirin.
-Programa çift tıklayarak çalıştırabilirsiniz.
+<p>AutoHotKey programını indirin.</p>
+<p>Ardından "https://github.com/Ozaxx/emojifier-turkce/releases/tag/1.0.0" kısmından en güncel sürümü indirin.</p>
+<p>Programa çift tıklayarak çalıştırabilirsiniz.</p>
 
 ## İşe yarar notlar:
-Uygulamayı çalıştırdıktan sonra görev çubuğunuzda simgesi belirecektir.
-İşlem uygulamak istediğinizde simgeye sağ tıklayın.
+<p>Uygulamayı çalıştırdıktan sonra görev çubuğunuzda simgesi belirecektir.</p>
+<p>İşlem uygulamak istediğinizde simgeye sağ tıklayın.</p>
 
 <img src="https://i.imgur.com/QmNzFyA.gif" alt="tutorial" width="25%">
 
