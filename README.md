@@ -12,5 +12,5 @@ Programa çift tıklayarak çalıştırabilirsiniz.
 Uygulamayı çalıştırdıktan sonra görev çubuğunuzda simgesi belirecektir.
 İşlem uygulamak istediğinizde simgeye sağ tıklayın.
 
-<img src="https://i.imgur.com/QmNzFyA.gif" alt="tutorial" width="50%">
+<img src="https://i.imgur.com/QmNzFyA.gif" alt="tutorial" width="25%">
 
