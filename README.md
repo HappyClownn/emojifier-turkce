@@ -5,7 +5,7 @@
 
 # Kurulum:
 <p>AutoHotKey programını indirin.</p>
-<p>Ardından Emojifier Türkçe'nin en son güncel sürümünü indirin. (<a href = "https://github.com/Ozaxx/emojifier-turkce/releases/" target = "_self">Güncellemeler</a> </p>
+<p>Ardından Emojifier Türkçe'nin en son güncel sürümünü indirin. (<a href = "https://github.com/Ozaxx/emojifier-turkce/releases/" target = "_self">Güncellemeler</a>) </p>
 <p>Programa çift tıklayarak çalıştırabilirsiniz.</p>
 
 ## İşe yarar notlar:
