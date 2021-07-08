@@ -5,7 +5,7 @@
 
 # Kurulum:
 AutoHotKey programını indirin.
-Ardından "https://github.com/Ozaxx/emojifier-turkce/releases/tag/1.0.0" kısmından .ahk uzantılı dosyayı indirin.
+Ardından "https://github.com/Ozaxx/emojifier-turkce/releases/tag/1.0.0" kısmından en güncel sürümü indirin.
 Programa çift tıklayarak çalıştırabilirsiniz.
 
 ## İyi eğlenceler!
