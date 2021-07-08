@@ -2,6 +2,9 @@
  <img width="200px" src="https://res.cloudinary.com/happyclown/image/upload/v1625765675/removal.ai__tmp-60e73711796aa_sbdgok.png" align="center" alt="Emojifier Türkçe" />
  <h2 align="center">Emojifier Türkçe</h2>
  <p align="center">Yazdığınız kelimeleri emojilere dönüştürün!</p>
+ 
+[Ozaxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozaxx)
+[Ozaxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozaxx&theme=dark&show_icons=true)
 
 # Kurulum:
 <p>AutoHotKey programını indirin.</p>
